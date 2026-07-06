@@ -798,7 +798,9 @@ By completing the program, participants will leave with:
 | [Failover97](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/Failover97.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [aiyoudiao](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/aiyoudiao.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [vipox233](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/vipox233.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [leopc999](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/leopc999.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 

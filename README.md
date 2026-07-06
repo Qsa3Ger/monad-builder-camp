@@ -304,7 +304,7 @@ By completing the program, participants will leave with:
 | [bb-cmb](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/bb-cmb.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [hhhuang5w3](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/hhhuang5w3.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [elizabetheeeeeing-dev](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/elizabetheeeeeing-dev.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| [lora-sys](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/lora-sys.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [lora-sys](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/lora-sys.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [saichato](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/saichato.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [mini-zoro](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/mini-zoro.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [xuexin-dai](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/xuexin-dai.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -802,6 +802,7 @@ By completing the program, participants will leave with:
 | [AuralRain](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/AuralRain.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [NotBadSlime](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/NotBadSlime.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 

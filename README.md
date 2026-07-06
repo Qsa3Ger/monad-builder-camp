@@ -704,7 +704,7 @@ By completing the program, participants will leave with:
 | [LikaiTOP](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/LikaiTOP.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [2942292987a-boop](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/2942292987a-boop.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [0xVantas](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/0xVantas.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| [baoyuheng235](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/baoyuheng235.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [baoyuheng235](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/baoyuheng235.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [eReiding](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/eReiding.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [1016013823-cmyk](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/1016013823-cmyk.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [eyw8](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/eyw8.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -802,6 +802,7 @@ By completing the program, participants will leave with:
 | [AuralRain](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/AuralRain.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [NotBadSlime](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/NotBadSlime.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 

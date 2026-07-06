@@ -435,7 +435,7 @@ By completing the program, participants will leave with:
 | [xinnuolin33-glitch](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/xinnuolin33-glitch.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [fan224-rgb](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/fan224-rgb.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [jianijliu](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/jianijliu.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| [Arden1024](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/Arden1024.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Arden1024](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/Arden1024.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [AmberTreelet](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/AmberTreelet.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [CN-LUOJC](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/CN-LUOJC.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [hannahlovegood](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/hannahlovegood.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -802,6 +802,7 @@ By completing the program, participants will leave with:
 | [AuralRain](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/AuralRain.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [NotBadSlime](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/NotBadSlime.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 

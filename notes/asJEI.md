@@ -12,6 +12,7 @@ timezone: UTC+8
 
 一个正在学习的大三学生而已
 具体学习记录可查看：https://www.hokkai2005.online
+具体学习记录可查看：https://www.hokkai2005.online
 具体学习记录可查看：https://www.hokkai2005.online/blog/web3-notes-02/
 
 ## Notes

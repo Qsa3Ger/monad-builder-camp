@@ -432,7 +432,7 @@ By completing the program, participants will leave with:
 | [xiaoloouyan-hue](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/xiaoloouyan-hue.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [try2026888-collab](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/try2026888-collab.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [ningjia65](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/ningjia65.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| [xinnuolin33-glitch](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/xinnuolin33-glitch.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [xinnuolin33-glitch](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/xinnuolin33-glitch.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [fan224-rgb](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/fan224-rgb.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [jianijliu](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/jianijliu.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Arden1024](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/Arden1024.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -807,6 +807,7 @@ By completing the program, participants will leave with:
 | [pwp041](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/pwp041.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Cool-CoCo](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/Cool-CoCo.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 

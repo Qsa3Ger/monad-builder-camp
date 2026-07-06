@@ -315,7 +315,7 @@ By completing the program, participants will leave with:
 | [Tuskiand](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/Tuskiand.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [809624312bq-338](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/809624312bq-338.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Luney12](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/Luney12.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| [alishamclaughlingejof-tech](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/alishamclaughlingejof-tech.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [alishamclaughlingejof-tech](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/alishamclaughlingejof-tech.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [zyaiire](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/zyaiire.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [zzxwjm](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/zzxwjm.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [OffNormal](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/OffNormal.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -471,7 +471,7 @@ By completing the program, participants will leave with:
 | [tolivetoearn-debug](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/tolivetoearn-debug.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [kellonfeck850-sketch](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/kellonfeck850-sketch.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [YMH0417](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/YMH0417.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| [0xBrick-Li](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/0xBrick-Li.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [0xBrick-Li](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/0xBrick-Li.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [JintolChan](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/JintolChan.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Swiftevo](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/Swiftevo.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [z7777ing](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/z7777ing.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -800,6 +800,7 @@ By completing the program, participants will leave with:
 | [vipox233](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/vipox233.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [leopc999](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/leopc999.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 

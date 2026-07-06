@@ -760,7 +760,7 @@ By completing the program, participants will leave with:
 | [BoweiTu](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/BoweiTu.md) | ✅ |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [GinLiu2000](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/GinLiu2000.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Thomas-Novato](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/Thomas-Novato.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| [Manuel-dev01](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/Manuel-dev01.md) | ✅ |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Manuel-dev01](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/Manuel-dev01.md) | ✅ | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Gavinwonder](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/Gavinwonder.md) | ✅ |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [clairelake-dev](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/clairelake-dev.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [renyufly](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/renyufly.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -809,6 +809,7 @@ By completing the program, participants will leave with:
 | [MarnieWu](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/MarnieWu.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [GamlaNyx](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/GamlaNyx.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 

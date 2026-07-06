@@ -10,7 +10,7 @@ timezone: UTC-7
 
 ## Self-introduction
 
-从学界跨入的web3的新手。
+从Measurement到web3.
 
 ## Notes
 
